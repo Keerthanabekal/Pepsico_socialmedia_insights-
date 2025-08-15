@@ -1,5 +1,5 @@
 # Pepsico_socialmedia_insights-
-Data-Driven Insights &amp; Recommendations to Optimize PepsiCo’s Social Media Strategy and ROI.
+Data-Driven Insights &amp; Recommendations to Optimize PepsiCo’s Social Media Strategy and ROI.<br/>
 Summarize the key findings and provide concrete, data-backed recommendations for improving PepsiCo social media marketing strategies, campaign planning, content performance, and platform-specific ROI.
 Task 1: Data Preprocessing and Cleaning
 •	Remove any duplicate post entries. 
